@@ -1,5 +1,11 @@
 # archive-unity-game
 Old Unity game I made in 2019. All assets were created by me.
+Features:
+- Local multiplayer
+- Multiple weapons with varying attributes
+- Explosives
+- Ability to pick up and drop weapons
+- Sliding/dashing physics
 
 ![demo.gif](https://github.com/xegativ/archive-unity-game/demo.gif)
 
