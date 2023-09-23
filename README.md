@@ -1,5 +1,5 @@
 # archive-unity-game
-Old Unity game I made in 2019. All assets were created by me.
+Old Unity game I made in high-school back in 2019. All assets were created by me.
 Features:
 - Local multiplayer
 - Multiple weapons with varying attributes
