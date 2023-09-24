@@ -1,9 +1,10 @@
-# archive-unity-game
-Old Unity game I made in high-school back in 2018. All assets were created by me.
+# Archive Platformer Game
+Old Unity game I made when I was younger. All assets were created by me using Adobe Photoshop. 
+
 Features:
 - Local multiplayer
 - Multiple weapons with varying attributes
-- Explosives
+- Explosives (physics)
 - Ability to pick up and drop weapons
 - Sliding/dashing physics
 
