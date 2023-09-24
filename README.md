@@ -6,7 +6,7 @@ Features:
 - Multiple weapons with varying attributes
 - Explosives (Rigidbody physics)
 - Ability to pick up and drop weapons
-- Sliding/dashing physics
+- Sliding/dashing mechanics
 
 Preview:
 
