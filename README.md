@@ -8,6 +8,8 @@ Features:
 - Ability to pick up and drop weapons
 - Sliding/dashing physics
 
+Preview:
+
 ![demo.gif](https://github.com/xegativ/archive-unity-game/demo.gif)
 
 ![demo.gif](https://github.com/xegativ/archive-unity-game/assets/52055203/f3fa2dc4-b5dd-418a-973c-0fdfa79d6751)
