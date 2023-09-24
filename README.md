@@ -4,7 +4,7 @@ Old Unity game I made when I was younger. All assets were created by me using Ad
 Features:
 - Local multiplayer
 - Multiple weapons with varying attributes
-- Explosives (physics)
+- Explosives (Rigidbody physics)
 - Ability to pick up and drop weapons
 - Sliding/dashing physics
 
